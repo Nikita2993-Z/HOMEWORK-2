@@ -1,0 +1,40 @@
+.body {font-family: 'Roboto' , 'Raloway' sans-serif;
+color: #434455;}
+.btn-section:hover {background: #4d5ae5; 
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+cursor: pointer;}
+
+.link-studio:hover {color: #404bbf;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;}
+.link-portfolio:hover {color: #404bbf;
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;}
+.link-contacts:hover {color: #404bbf;
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;}
+.link-address:hover,
+.link-address:focus {color: #404bbf; font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;}
+    h1 {font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+    }
+    h2 {font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        color: #2e2f42;}
+    h3 {font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        color: #2e2f42;}
+    p {font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #434455;}
