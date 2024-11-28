@@ -70,7 +70,7 @@ color: #434455;}
 .title-section-one {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;}
 .btn-section-one {
@@ -82,29 +82,38 @@ color: #434455;}
         background-color: #4d5ae5;
 }
 .btn-section-one:hover {background-color: #404bbf;}
-.section-ourteam {background: #f4f4fd;}
-h2 {font-weight: 700;
+
+
+.section-two {background: #f4f4fd;}
+.title-two-sect {font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
-    }
+    color: #2e2f42;}
 
-h3 {
-    font-weight: 500;
+.list-sect-two {}
+
+.item-sect-two {}
+
+.subject {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
-    }
+    color: #2e2f42;}
 
-p {font-weight: 400;
+.description {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
-   }
+    color: #434455;}
+
+
+
+
+
+
+
 
 .footer {background-color: #2e2f42;
 color:#f4f4fd;
