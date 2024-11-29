@@ -66,14 +66,14 @@ color: #434455;}
 
 
 
-.section-one {background-color: #2e2f42;}
-.title-section-one {
+.hero {background-color: #2e2f42;}
+.hero-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;}
-.btn-section-one {
+.hero-btn {
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -81,7 +81,8 @@ color: #434455;}
         color: #ffffff;
         background-color: #4d5ae5;
 }
-.btn-section-one:hover {background-color: #404bbf;}
+.hero-btn:hover,
+.hero-btn:focus {background-color: #404bbf;}
 
 
 .section-two {background: #f4f4fd;}
